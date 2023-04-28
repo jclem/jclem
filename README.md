@@ -1,5 +1,4 @@
-**Hello, I'm Jonathan!**
-
+**Hello, I'm Jonathan.**
 
 👨‍💻 I'm an engineer at GitHub.  
 👉 My pronouns are *&ldquo;he&rdquo;/&ldquo;him&rdquo;*.
